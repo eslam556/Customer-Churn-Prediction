@@ -5,3 +5,9 @@ The goal of this project is to build a classification model that predicts whethe
 
 ### What is Churn Prediction?
 Customer churn prediction is the process of using data analytics and machine learning to predict the likelihood that a customer will leave a company or service. By analyzing customer data such as behavior, demographics, and interaction history, businesses can identify patterns that are indicative of potential churn. Predicting churn allows companies to take proactive steps to retain high-risk customers, ultimately improving customer retention rates and maximizing lifetime value.
+
+# Customer Churn Prediction
+
+You can try the **Customer Churn Prediction** app by clicking the link below:
+
+[Customer Churn Prediction App](https://customer-churn-prediction-cz6sjub2prdiaksvzvmlaq.streamlit.app/)
